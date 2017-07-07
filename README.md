@@ -8,5 +8,7 @@
 
 ### Directory
 [How To: High Alitude Ballooning](../blob/master/ballooning.md)
+
 [Organization Guide](../blob/master/organization.md)
+
 [Engineering Guide](../blob/master/engineering.md)
