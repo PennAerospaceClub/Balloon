@@ -6,9 +6,8 @@
 ## Guide
   This guide is meant to be an essential reference to new and current members about how this team works. As the team has grown and developed (and continues to), we slowly refine our team structure and engineering practices. Hence this guide remains public so that other build teams can either replicate the features of this team that suit them, or even make suggestions on how things should work.
 
-### Directory
-[How To: High Alitude Ballooning](../master/ballooning.md)
-
-[Organization Guide](../master/organization.md)
-
-[Engineering Guide](../master/engineering.md)
+| Directory |
+| --- |
+| [How To: High Alitude Ballooning](../master/ballooning.md) |
+| [Organization Guide](../master/organization.md) |
+| [Engineering Guide](../master/engineering.md) |
